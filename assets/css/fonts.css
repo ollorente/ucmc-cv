@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: local('Cocogoose Thin'), local('Cocogoose-Thin'), url(../fonts/Cocogoose\ Pro\ Thin-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: local('Cocogoose Thin Italic'), local('Cocogoose-Thin-Italic'), url(../fonts/Cocogoose\ Pro\ Thin\ Italic-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local('Cocogoose Ultralight'), local('Cocogoose-Ultralight'), url(../fonts/Cocogoose\ Pro\ Ultralight-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Cocogoose UltraLight Italic'), local('Cocogoose-UltraLight-Italic'), url(../fonts/Cocogoose\ Pro\ UltraLight\ Italic-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local('Cocogoose Light'), local('Cocogoose-Light'), url(../fonts/Cocogoose\ Pro\ Light-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local('Cocogoose Light Italic'), local('Cocogoose-Light-Italic'), url(../fonts/Cocogoose\ Pro\ Light\ Italic-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('Cocogoose Semilight'), local('Cocogoose-Semilight'), url(../fonts/Cocogoose\ Pro\ Semilight-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight:800;
+    font-display: swap;
+    src: local('Cocogoose Semilight Italic'), local('Cocogoose-Semilight-Italic'), url(../fonts/Cocogoose\ Pro\ Semilight\ Italic-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: local('Cocogoose'), local('Cocogoose-Regular'), url(../fonts/Cocogoose\ Pro-trial.ttf);
+}
+
+@font-face {
+    font-family: 'Cocogoose';
+    font-style: normal;
+    font-weight: 1000;
+    font-display: swap;
+    src: local('Cocogoose Italic'), local('Cocogoose-Regular-Italic'), url(../fonts/Cocogoose\ Pro\ Italic-trial.ttf);
+}
